@@ -17,7 +17,7 @@ List related to projects carried out during the third year of studies at the [Un
 <a name="item2"></a>
  - **Algoritmos y Computación (ALGC)**
   
-   - [Parar a tiempo]()
+   - [Parar las recursiones a tiempo](https://github.com/jhoncabanilla/Entrega-1)
    
    - [Optimizando las búsquedas probabilísticas]()
    
