@@ -17,6 +17,12 @@ List related to projects carried out during the third year of studies at the [Un
 <a name="item2"></a>
  - **Algoritmos y Computación (ALGC)**
   
+   - [Parar a tiempo]()
+   
+   - [Optimizando las búsquedas probabilísticas]()
+   
+   - Enlace #1
+   
    - Enlace #1
    
 <a name="item3"></a>
