@@ -12,16 +12,12 @@ List related to projects carried out during the third year of studies at the [Un
 <a name="item1"></a>
  - **Análisis y Diseño de Bases de Datos (ADBD)**
  
-  Enlace #1
-  
-  Enlace #2
+   - [Ordenanza Reguladora de los Mercados Municipales]()
 
 <a name="item2"></a>
  - **Algoritmos y Computación (ALGC)**
-
-  Enlace #1
   
-  Enlace #2
+   - Enlace #1
    
 <a name="item3"></a>
  - **Códigos y Criptografía (CRIP)**
