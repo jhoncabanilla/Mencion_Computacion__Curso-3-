@@ -19,11 +19,11 @@ List related to projects carried out during the third year of studies at the [Un
   
    - [Parar las recursiones a tiempo](https://github.com/jhoncabanilla/Entrega-1)
    
-   - [Optimizando las búsquedas probabilísticas]()
+   - [Optimizando las búsquedas probabilísticas](https://github.com/jhoncabanilla/Entrega-2)
    
-   - Enlace #1
+   - [Recorridos en Grafos](https://github.com/jhoncabanilla/Entrega-3)
    
-   - Enlace #1
+   - [Búsquedas del camino más corto en grafos](https://github.com/jhoncabanilla/Entrega-4)
    
 <a name="item3"></a>
  - **Códigos y Criptografía (CRIP)**
