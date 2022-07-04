@@ -27,12 +27,10 @@ List related to projects carried out during the third year of studies at the [Un
    
 <a name="item3"></a>
  - **Códigos y Criptografía (CRIP)**
- 
-   - [Exámenes]()
   
-   - [Primera entrega de ejercicios]()
+   - [Primera entrega de ejercicios](https://github.com/jhoncabanilla/Primera-Entrega)
    
-   - [Segunda entrega de ejercicios]()
+   - [Segunda entrega de ejercicios](https://github.com/jhoncabanilla/Segunda-Entrega)
  
 <a name="item4"></a>
  - **Diseño y Evaluación de Sistemas Interactivos (DESI)**
