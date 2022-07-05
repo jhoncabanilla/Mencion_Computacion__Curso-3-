@@ -55,9 +55,9 @@ List related to projects carried out during the third year of studies at the [Un
 <a name="item6"></a>
  - **Gramáticas y Lenguajes Formales (GLF)**
  
-   - [Búsqueda y edición usando expresiones regulares]()
-   - [Generación de analizadores léxicos y sintácticos]()
-   - [Transductores de estado finito (FST, Finite-State Transducers)]()
+   - [Búsqueda y edición usando expresiones regulares](https://github.com/jhoncabanilla/GLF-Parte1)
+   - [Generación de analizadores léxicos y sintácticos](https://github.com/jhoncabanilla/GLF-Parte2)
+   - [Transductores de estado finito (FST, Finite-State Transducers)](https://github.com/jhoncabanilla/GLF-Parte3)
    
 <a name="item7"></a>
  - **Modelos para la Toma de Decisiones (MTD)**
