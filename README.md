@@ -62,7 +62,7 @@ List related to projects carried out during the third year of studies at the [Un
 <a name="item7"></a>
  - **Modelos para la Toma de Decisiones (MTD)**
  
-   - [Ordenanza Reguladora de los Mercados Municipales]()
+   - [Entregas](https://github.com/jhoncabanilla/Entregas)
    
 <a name="item8"></a>
  - **Servicios y Sistemas Web (SSW)**
@@ -72,4 +72,4 @@ List related to projects carried out during the third year of studies at the [Un
 <a name="item9"></a>
  - **Técnicas de Aprendizaje Automático (TAA)**
  
-   - [Ordenanza Reguladora de los Mercados Municipales]()
+   - [Prácticas](https://github.com/jhoncabanilla/Practicas-TAA)
