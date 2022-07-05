@@ -2,11 +2,18 @@
 List related to projects carried out during the third year of studies at the [University of Valladolid](https://www.uva.es/export/sites/uva/).
 
 ## Table of Contents
+### Primer Cuatrimestre
 - **[Análisis y Diseño de Bases de Datos (ADBD)](#item1)**
 - **[Algoritmos y Computación (ALGC)](#item2)**
 - **[Códigos y Criptografía (CRIP)](#item3)**
 - **[Diseño y Evaluación de Sistemas Interactivos (DESI)](#item4)**
 
+### Segundo Cuatrimestre
+- **[Computación Paralela (CPAR)](#item5)**
+- **[Gramáticas y Lenguajes Formales (GLF)](#item6)**
+- **[Modelos para la Toma de Decisiones (MTD)](#item7)**
+- **[Servicios y Sistemas Web (SSW)](#item8)**
+- **[Técnicas de Aprendizaje Automático (TAA)](#item9)**
 
 ## Subjects
 <a name="item1"></a>
@@ -36,3 +43,31 @@ List related to projects carried out during the third year of studies at the [Un
  - **Diseño y Evaluación de Sistemas Interactivos (DESI)**
  
    - [Crecimiento de la población mundial](https://github.com/jhoncabanilla/Crecimiento-Poblacion)
+   
+   
+<a name="item5"></a>
+ - **Computación Paralela (CPAR)**
+ 
+   - [Práctica OpenMP](https://github.com/jhoncabanilla/Pr-ctica-OpenMP)
+   - [Práctica MPI](https://github.com/jhoncabanilla/Practica-MPI)
+   - [Práctica CUDA](https://github.com/jhoncabanilla/Practica-CUDA)
+
+<a name="item6"></a>
+ - **Gramáticas y Lenguajes Formales (GLF)**
+ 
+   - [Ordenanza Reguladora de los Mercados Municipales]()
+   
+<a name="item7"></a>
+ - **Modelos para la Toma de Decisiones (MTD)**
+ 
+   - [Ordenanza Reguladora de los Mercados Municipales]()
+   
+<a name="item8"></a>
+ - **Servicios y Sistemas Web (SSW)**
+ 
+   - [Ordenanza Reguladora de los Mercados Municipales]()
+   
+<a name="item9"></a>
+ - **Técnicas de Aprendizaje Automático (TAA)**
+ 
+   - [Ordenanza Reguladora de los Mercados Municipales]()
