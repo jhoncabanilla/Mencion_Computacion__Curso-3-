@@ -67,7 +67,7 @@ List related to projects carried out during the third year of studies at the [Un
 <a name="item8"></a>
  - **Servicios y Sistemas Web (SSW)**
  
-   - [Ordenanza Reguladora de los Mercados Municipales](https://github.com/jhoncabanilla/Proyecto-WEB)
+   - [Proyecto Web: ULearn](https://github.com/jhoncabanilla/Proyecto-WEB)
    
 <a name="item9"></a>
  - **Técnicas de Aprendizaje Automático (TAA)**
